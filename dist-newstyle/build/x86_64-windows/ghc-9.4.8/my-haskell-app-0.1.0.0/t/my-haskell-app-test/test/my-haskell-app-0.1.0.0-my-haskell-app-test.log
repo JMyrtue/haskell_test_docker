@@ -1,0 +1,14 @@
+Test suite my-haskell-app-test: RUNNING...
+Cases: 2  Tried: 0  Errors: 0  Failures: 0                                          ### Failure in: 0
+Test.hs:9
+for 1 + 1,
+expected: 2
+ but got: 0
+Cases: 2  Tried: 1  Errors: 0  Failures: 1                                          ### Failure in: 1
+Test.hs:10
+for 2 * 3,
+expected: 6
+ but got: 8
+Cases: 2  Tried: 2  Errors: 0  Failures: 2
+Test suite my-haskell-app-test: PASS
+Test suite logged to: C:\Users\Jonathan\Documents\Programmering\haskell_container_test\dist-newstyle\build\x86_64-windows\ghc-9.4.8\my-haskell-app-0.1.0.0\t\my-haskell-app-test\test\my-haskell-app-0.1.0.0-my-haskell-app-test.log
